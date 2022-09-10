@@ -15,9 +15,9 @@ It contains the following vulnerabilities.
 
 -SQL Injection
 
--Informaion Disclosure
+-Information Disclosure
 
--Command Inejction
+-Command Injection
 
 -Brute Force
 
@@ -50,7 +50,7 @@ Code:https://github.com/anil-yelken/Vulnerable-Soap-Service/blob/main/sqli.py
 
 <img src="https://github.com/anil-yelken/Vulnerable-Soap-Service/blob/main/sqli.jpg">
 
-### Informaion Disclosure
+### Information Disclosure
 
 Code:https://github.com/anil-yelken/Vulnerable-Soap-Service/blob/main/get_logs_information_disclosure.py
 
