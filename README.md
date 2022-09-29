@@ -28,7 +28,7 @@ git clone https://github.com/anil-yelken/Vulnerable-Soap-Service
 
 cd Vulnerable-Soap-Service
 
-sudo pip3 install requirements.txt
+sudo pip3 install -r requirements.txt
 
 ## Usage
 
