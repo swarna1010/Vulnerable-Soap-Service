@@ -3,8 +3,8 @@ pipeline{
   stages{
     stage('CICD'){
       steps{
-         sh 'pip install -i https://test.pypi.org/simple/ boman-cli-uat==0.22'
-         sh '~/.local/bin/boman-cli -a run -cicd jenkins -u https://devapi.boman.ai/v2/'
+         sh 'pip install boman-cli'
+         sh '~/.local/bin/boman-cli -a run -cicd jenkins'
       }
     }
   }
