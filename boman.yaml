@@ -1,8 +1,8 @@
 Auth:
    project_token: a4638cb5-d2a4-4f1b-96df-5c67214fdfa4
    customer_token: 1f0e8b9c-e830-49c5-9e4b-aaedb6a0d87f
-# SAST:
-#   language: python
+SAST:
+  language: semgrep
 SCA:
   language: python
 # Secret_Scan: true
