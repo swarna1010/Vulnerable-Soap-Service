@@ -3,6 +3,6 @@ Auth:
    customer_token: 29599519-4ccd-4c74-8480-ba839d7f53f8
 SAST:
   language: python
-# SCA:
-#   language: python
+SCA:
+  language: python
 # Secret_Scan: true
